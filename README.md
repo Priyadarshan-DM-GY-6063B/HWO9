@@ -123,7 +123,7 @@ The **Interactive Hand-Tracked Digital Garden** is a creative project that allow
 ## Example Output
 
 ### Planting Mode
-![Planting Mode] (digital_garden_plant.png)
+![Planting Mode](digital_garden_plant.png)
 
 ### Watering Mode
 ![Watering Mode](digital_garden_water.png)
